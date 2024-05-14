@@ -1,3 +1,4 @@
+<div class="text-title-large font-semibold text-text-primary dark:text-text-primary"><a class="no-underline hover:text-blue-s dark:hover:text-dark-blue-s truncate cursor-text whitespace-normal hover:!text-[inherit]" href="/problems/path-with-maximum-gold/">1219. Path with Maximum Gold</a><div class="text-body ml-2 inline-flex items-center gap-2 py-1"><div class="inline-flex items-center space-x-2"></div></div></div>
 <div class="elfjS" data-track-load="description_content"><p>In a gold mine <code>grid</code> of size <code>m x n</code>, each cell in this mine has an integer representing the amount of gold in that cell, <code>0</code> if it is empty.</p>
 
 <p>Return the maximum amount of gold you can collect under the conditions:</p>
