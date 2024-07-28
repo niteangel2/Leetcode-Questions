@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/niteangel2/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/niteangel2/Leetcode-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/niteangel2/Leetcode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -150,14 +151,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
