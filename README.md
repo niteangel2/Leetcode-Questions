@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/niteangel2/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/niteangel2/Leetcode-Questions/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/niteangel2/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/niteangel2/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/niteangel2/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
