@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/niteangel2/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/niteangel2/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/niteangel2/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/niteangel2/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/niteangel2/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [1642-water-bottles](https://github.com/niteangel2/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/niteangel2/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/niteangel2/Leetcode-Questions/tree/master/2645-pass-the-pillow) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteangel2/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteangel2/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
