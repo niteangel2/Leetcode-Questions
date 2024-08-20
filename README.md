@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/niteangel2/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/niteangel2/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/niteangel2/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/niteangel2/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0890-lemonade-change](https://github.com/niteangel2/Leetcode-Questions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/niteangel2/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/niteangel2/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -257,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
