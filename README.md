@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/niteangel2/Leetcode-Questions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/niteangel2/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/niteangel2/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/niteangel2/Leetcode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/niteangel2/Leetcode-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/niteangel2/Leetcode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
