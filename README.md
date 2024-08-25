@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/niteangel2/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/niteangel2/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteangel2/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/niteangel2/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/niteangel2/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteangel2/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/niteangel2/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/niteangel2/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/niteangel2/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/niteangel2/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/niteangel2/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
