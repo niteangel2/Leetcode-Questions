@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/niteangel2/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/niteangel2/Leetcode-Questions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/niteangel2/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/niteangel2/Leetcode-Questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/niteangel2/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/niteangel2/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/niteangel2/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/niteangel2/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/niteangel2/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [1642-water-bottles](https://github.com/niteangel2/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/niteangel2/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niteangel2/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/niteangel2/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/niteangel2/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/niteangel2/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/niteangel2/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/niteangel2/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/niteangel2/Leetcode-Questions/tree/master/0476-number-complement) |
 ## Breadth-First Search
