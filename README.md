@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/niteangel2/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/niteangel2/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/niteangel2/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/niteangel2/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/niteangel2/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/niteangel2/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/niteangel2/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/niteangel2/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/niteangel2/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/niteangel2/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/niteangel2/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/niteangel2/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
