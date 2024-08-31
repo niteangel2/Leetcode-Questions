@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/niteangel2/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/niteangel2/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/niteangel2/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/niteangel2/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/niteangel2/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/niteangel2/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/niteangel2/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/niteangel2/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/niteangel2/Leetcode-Questions/tree/master/0476-number-complement) |
