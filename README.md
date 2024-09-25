@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/niteangel2/Leetcode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0908-middle-of-the-linked-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/niteangel2/Leetcode-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/niteangel2/Leetcode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/niteangel2/Leetcode-Questions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/niteangel2/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/niteangel2/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/niteangel2/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2846-robot-collisions](https://github.com/niteangel2/Leetcode-Questions/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
