@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/niteangel2/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/niteangel2/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/niteangel2/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/niteangel2/Leetcode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/niteangel2/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/niteangel2/Leetcode-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/niteangel2/Leetcode-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/niteangel2/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteangel2/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/niteangel2/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/niteangel2/Leetcode-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
