@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/niteangel2/Leetcode-Questions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/niteangel2/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/niteangel2/Leetcode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/niteangel2/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/niteangel2/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/niteangel2/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/niteangel2/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/niteangel2/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/niteangel2/Leetcode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/niteangel2/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/niteangel2/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/niteangel2/Leetcode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
