@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0890-lemonade-change](https://github.com/niteangel2/Leetcode-Questions/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/niteangel2/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/niteangel2/Leetcode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/niteangel2/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/niteangel2/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niteangel2/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/niteangel2/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/niteangel2/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/niteangel2/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/niteangel2/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/niteangel2/Leetcode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/niteangel2/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/niteangel2/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/niteangel2/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/niteangel2/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/niteangel2/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
