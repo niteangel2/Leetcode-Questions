@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/niteangel2/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/niteangel2/Leetcode-Questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/niteangel2/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/niteangel2/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/niteangel2/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/niteangel2/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/niteangel2/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [2472-build-a-matrix-with-conditions](https://github.com/niteangel2/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/niteangel2/Leetcode-Questions/tree/master/0207-course-schedule) |
 ## Design
 |  |
 | ------- |
