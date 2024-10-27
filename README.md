@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/niteangel2/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/niteangel2/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/niteangel2/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/niteangel2/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [1642-water-bottles](https://github.com/niteangel2/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/niteangel2/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/niteangel2/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/niteangel2/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/niteangel2/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/niteangel2/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/niteangel2/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteangel2/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bit Manipulation
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/niteangel2/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 ## String Matching
 |  |
