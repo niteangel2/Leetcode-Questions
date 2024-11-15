@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/niteangel2/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/niteangel2/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/niteangel2/Leetcode-Questions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/niteangel2/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0059-spiral-matrix-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteangel2/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/niteangel2/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/niteangel2/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/niteangel2/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/niteangel2/Leetcode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
