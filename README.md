@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/niteangel2/Leetcode-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/niteangel2/Leetcode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/niteangel2/Leetcode-Questions/tree/master/2846-robot-collisions) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/niteangel2/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/niteangel2/Leetcode-Questions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/niteangel2/Leetcode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/niteangel2/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
