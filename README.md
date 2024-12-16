@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/niteangel2/Leetcode-Questions/tree/master/2846-robot-collisions) |
 | [3427-special-array-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/niteangel2/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/niteangel2/Leetcode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/niteangel2/Leetcode-Questions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/niteangel2/Leetcode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/niteangel2/Leetcode-Questions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/niteangel2/Leetcode-Questions/tree/master/2846-robot-collisions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/niteangel2/Leetcode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/niteangel2/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/niteangel2/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/niteangel2/Leetcode-Questions/tree/master/2645-pass-the-pillow) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/niteangel2/Leetcode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/niteangel2/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/niteangel2/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/niteangel2/Leetcode-Questions/tree/master/0948-sort-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/niteangel2/Leetcode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
